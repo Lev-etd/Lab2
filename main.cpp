@@ -287,7 +287,6 @@ int evalPost(char *exp) {
 }
 
 
-
 int main() {
     BinaryOps result;
     try {
